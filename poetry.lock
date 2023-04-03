@@ -2,17 +2,17 @@
 
 [[package]]
 name = "nyanlang"
-version = "1.3.5"
+version = "1.5.2"
 description = "A Cutest Programming Language"
 category = "main"
 optional = false
 python-versions = ">=3.10,<4.0"
 files = [
-    {file = "nyanlang-1.3.5-py3-none-any.whl", hash = "sha256:bef85dfbf86f8175790ee307b2b77be528e43b670e85f4c7047db89b8394fdc6"},
-    {file = "nyanlang-1.3.5.tar.gz", hash = "sha256:899b41ab2bb18523825377223a81ffe355f3e9cb6d06df7908e7958281f9a9ff"},
+    {file = "nyanlang-1.5.2-py3-none-any.whl", hash = "sha256:a555aacc821e568be2eb1620b2d24893a9146e72a6d9eb0ea3a0774006bc605b"},
+    {file = "nyanlang-1.5.2.tar.gz", hash = "sha256:628f9bc5d45015070bf238861b6edb2919d34de9b6800bf03ec2577db8f106bd"},
 ]
 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "ca6ded73dad6060f4f202b1b74d1dfe18edd26d596ba10dd08a1490bf278dfb3"
+content-hash = "d0c3c2b7ba140301efc79954d5626ec43adb11f16059f8526b3cbba31537cbb2"
